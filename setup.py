@@ -1,4 +1,3 @@
-
 import setuptools
 
 with open("README.md", "r", encoding="utf-8") as f:
@@ -7,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "Brain_tumor"
+REPO_NAME = "brain_tumor"
 AUTHOR_USER_NAME = "raisaksh1"
 SRC_REPO = "cnnClassifier"
 AUTHOR_EMAIL = "sakshirai.4537@gmail.com"
